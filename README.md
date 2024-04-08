@@ -73,6 +73,7 @@ The project consists of the following components:
 4. **Testing**: The trained model is evaluated on the test dataset to measure its performance.
 5. **Model Saving and Loading**: The trained model is saved to disk and can be loaded for future use.
 
+![cifar10](https://hackmd.io/_uploads/rJZj6SZeR.png)
 
 
 ## 👩🏼‍💻 Requirements
